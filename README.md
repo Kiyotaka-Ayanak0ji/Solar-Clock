@@ -13,6 +13,3 @@ A Solar Clock that depicts a full solar year on earth consisting of 365 days
 
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/3d323804-7594-4ce2-ac9c-b8d2bb481271" />
 <hr class='height:10px'/>
-
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/82241991-b3bb-4cb2-ab4c-6991b5b50789" />
-
